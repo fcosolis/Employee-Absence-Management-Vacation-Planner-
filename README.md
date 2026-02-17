@@ -37,6 +37,8 @@ Executive overview with key HR metrics:
 
 Provides a clear and data-driven summary for management decision-making.
 
+![Dashboard](https://github.com/fcosolis/Employee-Absence-Management-Vacation-Planner-/blob/main/Dashboard.png)
+
 ---
 
 ### 📆 2️⃣ Team Tracking (Gantt View)
@@ -51,6 +53,8 @@ Features:
 
 Designed for operational planning and team workload visibility.
 
+![Team Tracking](https://github.com/fcosolis/Employee-Absence-Management-Vacation-Planner-/blob/main/Seguimiento%20a%20equipos.png)
+
 ---
 
 ### 🗓 3️⃣ Absence Calendar (Monthly View)
@@ -63,6 +67,8 @@ Interactive monthly calendar with:
 - Daily view showing which employees will be absent  
 
 Helps anticipate overlapping absences and maintain operational continuity.
+
+![Absence Calendar](https://github.com/fcosolis/Employee-Absence-Management-Vacation-Planner-/blob/main/Calendario%20de%20ausencias.png)
 
 ---
 
@@ -77,6 +83,8 @@ Individual employee dashboard displaying:
 
 Provides a complete visual overview of each employee’s absence behavior.
 
+![Employee Annual Tracking](https://github.com/fcosolis/Employee-Absence-Management-Vacation-Planner-/blob/main/Seguimiento%20de%20empleados.png)
+
 ---
 
 ### 👥 5️⃣ Employees Sheet
@@ -87,6 +95,8 @@ Employee master data table:
 |----|--------------|------|-----------|------------|----------|-------|
 
 Each employee is uniquely identified, allowing structured and reliable tracking.
+
+![Employees Sheet](https://github.com/fcosolis/Employee-Absence-Management-Vacation-Planner-/blob/main/Empleados.png)
 
 ---
 
@@ -99,6 +109,8 @@ Historical absence database:
 
 This table feeds all dashboards, calendars, and visualizations automatically.
 
+![Absence Records](https://github.com/fcosolis/Employee-Absence-Management-Vacation-Planner-/blob/main/Ausencias.png)
+
 ---
 
 ### 🌐 7️⃣ Languages
@@ -106,6 +118,8 @@ This table feeds all dashboards, calendars, and visualizations automatically.
 Multi-language system allowing full template translation.
 
 By modifying the language table, the entire workbook automatically adapts to the selected language, making it highly flexible for international use.
+
+![Languages](https://github.com/fcosolis/Employee-Absence-Management-Vacation-Planner-/blob/main/idiomas.png)
 
 ---
 
@@ -121,6 +135,8 @@ Central control panel including:
 - Vacation entitlement policy table based on years of service  
 
 This structure ensures adaptability to different countries, companies, and labor regulations.
+
+![Configuration](https://github.com/fcosolis/Employee-Absence-Management-Vacation-Planner-/blob/main/Configuracion.png)
 
 ---
 
